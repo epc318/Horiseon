@@ -3,6 +3,7 @@
 
 This repository contains the HTML and CSS sources codes to the Horiseon Home Page. Also found here, are the images used on the web page.
 
+### Deployed Application URL:
 http://localhost:52330/index.html
 
 ### Source Code example:
