@@ -16,6 +16,6 @@ No Contributions are being accepted as this time.
 
 ## Authors
 
-Evan Carlson - Refactor work to existing web page.
+Evan Carlson (epc318) - Refactor work to existing web page.
 
 Initial Repositroy URL - https://github.com/coding-boot-camp/urban-octo-telegram
