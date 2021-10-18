@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* begin styles to header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,7 +46,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* end styles to header */
 
+/* begin styles to <article>/hero section */
 p {
     font-size: 16px;
 }
@@ -74,6 +77,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* end styles <article>/hero section */
 
 .benefits {
     margin-right: 20px;
@@ -86,6 +90,7 @@ p {
     background-color: #2589bd;
 }
 
+/* begin <aside>/side banner styles*/
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -119,7 +124,9 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
  }
+/* end <aside>/side banner styles*/
 
+/* begin footer syles*/
 .footer {
     padding: 30px;
     clear: both;
@@ -130,3 +137,4 @@ main {
 .footer h2 {
     font-size: 20px;
 }
+/* end footer syles*/
