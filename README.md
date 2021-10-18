@@ -3,6 +3,10 @@
 
 This repository contains the HTML and CSS sources codes to the Horiseon Home Page. Also found here, are the images used on the web page.
 
+http://localhost:52330/index.html
+
+### Source Code example:
+![Horiseon_example](https://user-images.githubusercontent.com/91582797/137652432-72aff2ec-2643-44d0-9990-2403590d1584.PNG)
 
 
 ## Contributing
